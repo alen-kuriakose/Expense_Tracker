@@ -1,0 +1,141 @@
+#main {
+	background: #212529;
+	height: 100vh;
+}
+
+
+b{
+    color: #fe9400;
+}
+
+input.form-control{
+	color: #fff;
+}
+
+table.table{
+	margin=5%;
+}
+btn-check:focus + .btn-primary,
+.btn-primary:focus {
+	/* color: #fff;  */
+	background-color: #fe9400;
+	border-color: #fe9400;
+	box-shadow: 0 0 0 0;
+}
+
+.btn-check:focus + .btn-outline-success,
+.btn-outline-success:focus {
+	box-shadow: 0 0 0 0;
+}
+
+.nav-link:focus,
+.nav-link:hover {
+	color: #fe9400;
+}
+
+/* Home Page */
+
+.navbar-brand{
+    padding-left: 30px;
+    padding-right: 10px;
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
+.homeCaption {
+	text-align: left;
+	font-size: 4vw;
+	font-weight: 700;
+    color: #fff;
+}
+
+.homeButton{
+    display: inline-block;
+    float: left;
+	padding: 3%;
+    width: 30%;
+    color: #fff;
+    background-color: #fe9400;
+    border-color: #fe9400;
+}
+
+.homeButton:hover{
+    color: #1b1b1b;
+    background-color: #fff;
+    border-color: #fff;
+}
+
+
+
+.worker{
+    width: 90%;
+    height: 90%;
+}
+
+@media screen and (max-width:1000){
+    div.workerimg{
+        display: none;
+    }
+}
+
+
+/* Main Page */
+
+.loginIcon {
+	color: #fe9400;
+}
+
+.registerButton {
+	border-color: #fe9400;
+	color: #fe9400;
+}
+
+.loginIcon:hover {
+	color: #fe9400;
+}
+
+.registerButton:hover {
+	background-color: #fe9400;
+	border-color: #fe9400;
+}
+
+/* Login Page & Register Page*/
+.form-control {
+	background: #515151;
+	border-color: #515151;
+}
+
+.headingText {
+	color: #fff;
+}
+
+.loginfield {
+	width: 75%;
+	display: inline-block;
+	
+}
+
+.loginRight {
+	background: #1b1b1b;
+	padding-bottom: 5%;
+	border-radius: 3%;
+}
+
+.loginfieldButton {
+	background-color: #fe9400;
+	border-color: #fe9400;
+}
+
+.loginfieldButton:hover {
+	background-color: #fe9400;
+	border-color: #fe9400;
+}
+
+/* Report Page */
+
+table.reportTable{
+	width: 75%;
+	margin: auto;
+}
+
+
