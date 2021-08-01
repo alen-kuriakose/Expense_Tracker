@@ -1,24 +1,18 @@
-# expense
+### eXpense
+A web application that allows users to keep track of user expenses.
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Tech stack
+1.	Frontend - Vue JS 
+2.	Backend Built with Express JS server in NodeJS runtime environment.
+3.	Bootstrap for CSS styling.
+4.	MongoDB
+5.	REST API calls 
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Features
+ - [x] Login and Logout System
+ - [x] Add Transactions for tracking expense
+ - [x] View report of transactions
