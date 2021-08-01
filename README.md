@@ -30,7 +30,7 @@ A web application that allows users to keep track of user expenses.
  2.	Sign In
     Users should be able to login to the platform using the credentials or social media authentication method (whichever is easy for you).
     
- 3.The logged in users should be able to add their expenses with the following fields
+ 3. The logged in users should be able to add their expenses with the following fields
      Spend Title, Category, Spend Amount, Date, Description (Optional)
     
  4.	Expense Report Page
